@@ -44,6 +44,6 @@ As requisições estão organizadas nas seguintes pastas:
 - Exclusão
 
 ## 🧔 Autor
-Artur Felipe Albuquerque
+Artur Felipe Albuquerque Portela
 
 > Este projeto faz parte do portfólio pessoal para fins de estudo e demonstração de habilidades em testes de API.
